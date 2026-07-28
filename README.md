@@ -23,3 +23,16 @@ AI生成真人動畫
 + 
 boardcast
 要熟用AI工具~
+
+
+
+
+
+//打卡用：
+
+人都要永生，由學習開始
+或者閱讀、學生字
+
+Perseverance = 毅力
+Affirmation = 正向肯定、肯定語
+Get into shape = 練好身材、改善體能
