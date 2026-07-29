@@ -36,3 +36,4 @@ boardcast
 Perseverance = 毅力
 Affirmation = 正向肯定、肯定語
 Get into shape = 練好身材、改善體能
+Sabotage
