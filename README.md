@@ -41,3 +41,4 @@ resilience
 boredom
 alleviate
 run amok
+trumph 
