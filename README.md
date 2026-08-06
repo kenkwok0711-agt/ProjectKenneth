@@ -45,4 +45,21 @@ trumph
 decompress
 Mantra
 assessment
-
+doormat
+posession 
+Embrace
+venture
+setback
+adversity
+resolve N. 決心
+thrill
+Perspiration
+overdelivering
+Hustle
+culmination
+(winning) streak 
+Virtue
+Grit
+Craft
+endure
+owe
