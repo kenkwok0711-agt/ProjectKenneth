@@ -1,12 +1,12 @@
 # ProjectKenneth
 電子永生之 .skill
 餵言論(主流Social)、自己輸入
-
+-食chat bot功能
 
 + 
 AI生成真人動畫
 餵相，搵個勁D既Generate AI動畫 AI
-
+(問)
 
 + 
 隱藏人格 / Social media ？
@@ -36,17 +36,17 @@ boardcast
 Perseverance = 毅力
 Affirmation = 正向肯定、肯定語
 Get into shape = 練好身材、改善體能
-Sabotage
+Sabotage 
 resilience
-boredom
+boredom 
 alleviate
 run amok
 trumph 
 decompress
-Mantra
+Mantra 
 assessment
 doormat
-posession 
+possession 
 Embrace
 venture
 setback
@@ -55,11 +55,11 @@ resolve N. 決心
 thrill
 Perspiration
 overdelivering
-Hustle
+Hustle 
 culmination
 (winning) streak 
 Virtue
-Grit
+Grit 
 Craft
 endure
 owe
