@@ -63,3 +63,5 @@ Grit
 Craft
 endure
 owe
+
+人可以建立新的神經迴路所以想鍛練一下無名指
