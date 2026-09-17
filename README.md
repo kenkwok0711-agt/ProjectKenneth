@@ -41,9 +41,9 @@ Perseverance = 毅力
 Affirmation = 正向肯定、肯定語
 Get into shape = 練好身材、改善體能
 Sabotage 
-resilience
+resilience 堅軔
 boredom 
-alleviate
+alleviate 
 run amok
 trumph 
 decompress
@@ -54,7 +54,7 @@ possession
 Embrace
 venture
 setback
-adversity
+adversity 奕
 resolve N. 決心
 thrill
 Perspiration
@@ -69,7 +69,7 @@ endure
 owe
 
 人可以建立新的神經迴路所以想鍛練一下無名指
-控制成反近視眼
+控制成反近視眼??
 
 行動，成功==>> 無限正循環
 
